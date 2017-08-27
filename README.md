@@ -5,4 +5,4 @@ A Python Script to display CodeChef ratings of all your friends.
 2. Cd into the directory containing the file
 3. Run the python script
 
-For any errors / feedback please create an issue in the repo. Testers can mail at [a link] parikansh.ahluwalia@gmail.com
+For any errors / feedback please create an issue in the repo. Testers can mail at parikansh.ahluwalia@gmail.com :)
